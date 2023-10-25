@@ -1,0 +1,8 @@
+{
+    "lcd": "https://lcd.terra-classic.hexxagon.io",
+    "fcd": "https://fcd.terra-classic.hexxagon.io",
+    "debug": false,
+    "calc_mode": 1,
+    "orphan_accts_check": true,
+    "orphan_accts": ["terra1qyw695vaxj7jl6s4u564c6xkfe59kercg0h88w"]
+}
