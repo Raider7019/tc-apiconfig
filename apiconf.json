@@ -1,6 +1,6 @@
 {
-    "lcd": "https://lcd.terra-classic.hexxagon.io",
-    "fcd": "https://fcd.terra-classic.hexxagon.io",
+    "lcd": "https://terra-classic-lcd.publicnode.com",
+    "fcd": "https://terra-classic-fcd.publicnode.com",
     "debug": false,
     "calc_mode": 1,
     "orphan_accts_check": true,
