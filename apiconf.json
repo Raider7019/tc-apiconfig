@@ -1,6 +1,11 @@
 {
     "lcd": "https://terra-classic-lcd.publicnode.com",
     "fcd": "https://terra-classic-fcd.publicnode.com",
+    "cache_enabled": true,
+    "cache_ip": "127.0.0.1",
+    "cache_port": "6379",
+    "cache_id": 5,
+    "cache_ttl": 30,    
     "debug": false,
     "calc_mode": 1,
     "orphan_accts_check": true,
